@@ -1,1 +1,1 @@
-https://nftmarketplaceaurora.netlify.app/
+LIVE Project link: https://nftmarketplacersk.netlify.app/
